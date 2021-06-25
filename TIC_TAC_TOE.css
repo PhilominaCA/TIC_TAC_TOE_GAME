@@ -1,0 +1,38 @@
+.cent{
+    padding: 0% 0%;
+    padding-left: 0%;
+margin: auto;
+width: 100%;
+border: 3px  rgb(235, 8, 8);
+text-align: center;
+}
+button{
+background-color: rgb(184, 155, 155);
+color: rgb(12, 11, 11);
+text-align: center;
+height: 50px;
+font-size: 35px;
+width: 150px;
+font-weight: bold;
+}
+.bb1,.bb2,.bb3,.bb4,.bb5,.bb6,.bb7,.bb8,.bb9{
+background-color:white; /* Green */
+font-weight: bold;
+border-width: 10px;
+border-color: rgb(235, 8, 8);
+/* color: rgb(95, 15, 15);*/
+padding: 30px 30px;
+text-align: center;
+text-decoration: none;
+width: 50px;
+/*display: inline-block;*/
+font-size: 50px;
+
+}
+.winn{
+border: white;
+text-align: center;
+color: rgb(36, 141, 50);
+font-weight: bold;
+font-size: 55px;
+}
